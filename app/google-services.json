@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248174065771",
+    "project_id": "camscan-cc203",
+    "storage_bucket": "camscan-cc203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248174065771:android:a970ae041b54d50039992e",
+        "android_client_info": {
+          "package_name": "com.bluesoftit.scancam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248174065771-7g8kk4li45t4ev9u51q0ome0eoe79t41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqmHtBxJH7APszKNw0V7KVu8Oi7FT7eyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248174065771-7g8kk4li45t4ev9u51q0ome0eoe79t41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

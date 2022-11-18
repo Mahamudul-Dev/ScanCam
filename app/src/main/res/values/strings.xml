@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScanCam</string>
+    <string name="intro_txt"><br>Hi! I am CamScan.\n</br><br>Please take picture to scan...\n</br></string>
+</resources>
